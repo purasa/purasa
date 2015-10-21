@@ -1,0 +1,53 @@
+body {
+	width:800px;
+	margin:auto;
+	border:0;
+	padding:0;
+	background-color: #dddddd;
+}
+
+#contents {
+	width:800px;
+	float:left;
+	margin:auto;
+	border:0;
+	padding:0;
+}
+#JPG {
+	text-align: center;
+	width: 800px;
+}
+#about {
+	text-align: center;
+
+}
+h2 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#event {
+	width:1000px;
+	float: left;
+}
+
+ul li {
+	list-style: none;
+}
+
+#persons {
+	width:800px;
+	height:150px;
+	float: left;
+}
+.person {
+	float: left;
+	width:80px;
+	margin: auto;
+}
+
+address {
+	width: 800px;
+	text-align: center;
+}
